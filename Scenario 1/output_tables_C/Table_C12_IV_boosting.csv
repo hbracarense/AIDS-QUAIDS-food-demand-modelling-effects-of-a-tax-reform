@@ -1,6 +1,0 @@
-"Variable";"n_cc";"F_SW_cond";"R2_partial";"df1";"df2";"note"
-"ln_preco_com_reforma12";544;1148,75527645643;0,80940708518951;2;541;"SOURCE: reform_8.R::sw_tbl (after loading function-deps into env_boost; then running reform_7.R+reform_8.R top-level)"
-"ln_preco_com_reforma13";544;500,737450735952;0,649264957579697;2;541;"SOURCE: reform_8.R::sw_tbl (after loading function-deps into env_boost; then running reform_7.R+reform_8.R top-level)"
-"ln_preco_com_reforma14";544;117,956396520482;0,303654149029471;2;541;"SOURCE: reform_8.R::sw_tbl (after loading function-deps into env_boost; then running reform_7.R+reform_8.R top-level)"
-"ln_preco_com_reforma15";544;662,118687648585;0,709956487487922;2;541;"SOURCE: reform_8.R::sw_tbl (after loading function-deps into env_boost; then running reform_7.R+reform_8.R top-level)"
-"ln_preco_com_reforma16";544;1486,33120215478;0,846029601666781;2;541;"SOURCE: reform_8.R::sw_tbl (after loading function-deps into env_boost; then running reform_7.R+reform_8.R top-level)"
