@@ -1,0 +1,6 @@
+"Variable";"n_CC";"F_SW";"R_Partial^2";"df1";"df2";"note"
+"ln_preco_com_reforma12";544;156,199679462291;0,849933869655989;21;522;"SOURCE: reform_4.R::run_iv_suite_all_prices() -> $first_stage. F col=F_SW_cond; R2 col=R2_partial."
+"ln_preco_com_reforma13";544;65,927354719627;0,705057875752032;21;522;"SOURCE: reform_4.R::run_iv_suite_all_prices() -> $first_stage. F col=F_SW_cond; R2 col=R2_partial."
+"ln_preco_com_reforma14";544;67,6902414172779;0,710515564161485;21;522;"SOURCE: reform_4.R::run_iv_suite_all_prices() -> $first_stage. F col=F_SW_cond; R2 col=R2_partial."
+"ln_preco_com_reforma15";544;129,754458529642;0,824710161132026;21;522;"SOURCE: reform_4.R::run_iv_suite_all_prices() -> $first_stage. F col=F_SW_cond; R2 col=R2_partial."
+"ln_preco_com_reforma16";544;200,433897501838;0,879046518698919;21;522;"SOURCE: reform_4.R::run_iv_suite_all_prices() -> $first_stage. F col=F_SW_cond; R2 col=R2_partial."
