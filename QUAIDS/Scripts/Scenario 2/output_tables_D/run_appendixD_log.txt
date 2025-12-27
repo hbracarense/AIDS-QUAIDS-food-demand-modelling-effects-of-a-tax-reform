@@ -1,0 +1,145 @@
+2025-12-22 10:47:18 | [STEP 1] Sourcing reform_1.R (full run) 
+2025-12-22 10:47:29 | [STEP 2] Loading functions only from reform_2..reform_12 
+2025-12-22 10:47:29 |   - functions:  reform_2.R 
+2025-12-22 10:47:29 |   - functions:  reform_3.R 
+2025-12-22 10:47:29 |   - functions:  reform_4.R 
+2025-12-22 10:47:29 |   - functions:  reform_5.R 
+2025-12-22 10:47:29 |   - functions:  reform_6.R 
+2025-12-22 10:47:29 |   - functions:  reform_7.R 
+2025-12-22 10:47:29 |   - functions:  reform_8.R 
+2025-12-22 10:47:29 |   - functions:  reform_9.R 
+2025-12-22 10:47:29 |   - functions:  reform_10.R 
+2025-12-22 10:47:29 |   - functions:  reform_11.R 
+2025-12-22 10:47:29 |   - functions:  reform_12.R 
+2025-12-22 10:47:29 | [D.1] Export IV candidates inputs 
+2025-12-22 10:47:29 | [D.2] Export RMSE/MAE inputs (from reform_1 objects) 
+2025-12-22 10:47:29 | [INFO] pipeline_results não é coercível para data.frame; exportei step5 (se existia). 
+2025-12-22 10:47:29 | [Fig D.4] Export QUAIDS 3SLS coefficients (inputs + plot) 
+2025-12-22 10:47:29 | [Fig D.3] Sourcing reform_6.R (full run) to create benchmarking objects 
+2025-12-22 10:47:29 | [PATCH] Contract shim for reform_6.R (share_vars/price_vars/df aliases) 
+2025-12-22 10:47:29 | [PATCH] Contract shim for reform_6.R (weights_col/dat) 
+2025-12-22 10:47:29 |   - define: dat <- df_iv 
+2025-12-22 10:47:29 |   - define: share_vars <- shareNames 
+2025-12-22 10:47:29 |   - define: price_vars <- priceNames 
+2025-12-22 10:47:29 |   - define: weights_col <- 'peso_final' (reform_3/4 contract) 
+2025-12-22 10:48:41 | [STEP 1] Sourcing reform_1.R (full run) 
+2025-12-22 10:48:52 | [STEP 2] Loading functions only from reform_2..reform_12 
+2025-12-22 10:48:52 |   - functions:  reform_2.R 
+2025-12-22 10:48:52 |   - functions:  reform_3.R 
+2025-12-22 10:48:52 |   - functions:  reform_4.R 
+2025-12-22 10:48:52 |   - functions:  reform_5.R 
+2025-12-22 10:48:52 |   - functions:  reform_6.R 
+2025-12-22 10:48:52 |   - functions:  reform_7.R 
+2025-12-22 10:48:52 |   - functions:  reform_8.R 
+2025-12-22 10:48:52 |   - functions:  reform_9.R 
+2025-12-22 10:48:52 |   - functions:  reform_10.R 
+2025-12-22 10:48:52 |   - functions:  reform_11.R 
+2025-12-22 10:48:52 |   - functions:  reform_12.R 
+2025-12-22 10:48:52 | [D.1] Export IV candidates inputs 
+2025-12-22 10:48:52 | [D.2] Export RMSE/MAE inputs (from reform_1 objects) 
+2025-12-22 10:48:52 | [INFO] pipeline_results não é coercível para data.frame; exportei step5 (se existia). 
+2025-12-22 10:48:52 | [Fig D.4] Export QUAIDS 3SLS coefficients (inputs + plot) 
+2025-12-22 10:48:52 | [Fig D.3] Sourcing reform_6.R (full run) to create benchmarking objects 
+2025-12-22 10:48:52 | [PATCH] Contract shim for reform_6.R (share_vars/price_vars/df aliases) 
+2025-12-22 10:48:52 | [PATCH] Contract shim for reform_6.R (weights_col/dat) 
+2025-12-22 10:48:52 |   - define: dat <- df_iv 
+2025-12-22 10:48:52 |   - define: share_vars <- shareNames 
+2025-12-22 10:48:52 |   - define: price_vars <- priceNames 
+2025-12-22 10:48:52 |   - define: weights_col <- 'peso_final' (reform_3/4 contract) 
+2025-12-22 10:49:57 | [STEP 1] Sourcing reform_1.R (full run) 
+2025-12-22 10:50:07 | [STEP 2] Loading functions only from reform_2..reform_12 
+2025-12-22 10:50:07 |   - functions:  reform_2.R 
+2025-12-22 10:50:07 |   - functions:  reform_3.R 
+2025-12-22 10:50:07 |   - functions:  reform_4.R 
+2025-12-22 10:50:07 |   - functions:  reform_5.R 
+2025-12-22 10:50:07 |   - functions:  reform_6.R 
+2025-12-22 10:50:07 |   - functions:  reform_7.R 
+2025-12-22 10:50:07 |   - functions:  reform_8.R 
+2025-12-22 10:50:07 |   - functions:  reform_9.R 
+2025-12-22 10:50:07 |   - functions:  reform_10.R 
+2025-12-22 10:50:07 |   - functions:  reform_11.R 
+2025-12-22 10:50:07 |   - functions:  reform_12.R 
+2025-12-22 10:50:07 | [D.1] Export IV candidates inputs 
+2025-12-22 10:50:07 | [D.2] Export RMSE/MAE inputs (from reform_1 objects) 
+2025-12-22 10:50:07 | [INFO] pipeline_results não é coercível para data.frame; exportei step5 (se existia). 
+2025-12-22 10:50:07 | [Fig D.4] Export QUAIDS 3SLS coefficients (inputs + plot) 
+2025-12-22 10:50:08 | [Fig D.3] Sourcing reform_6.R (full run) to create benchmarking objects 
+2025-12-22 10:50:08 | [PATCH] Contract shim for reform_6.R (share_vars/price_vars/df aliases) 
+2025-12-22 10:50:08 | [PATCH] Contract shim for reform_6.R (weights_col/dat) 
+2025-12-22 10:50:08 | [PATCH] Loading contract vars from reform_4.R (then reform_3.R if needed) 
+2025-12-22 10:50:08 | [PATCH] Contract vars loaded:  z_var, z2_var, iv_include_patterns_full, iv_include_patterns_min, iv_exclude_patterns, seasonal_controls_full, seasonal_controls_min 
+2025-12-22 10:50:08 |   - define: dat <- df_iv 
+2025-12-22 10:50:08 |   - define: share_vars <- shareNames 
+2025-12-22 10:50:08 |   - define: price_vars <- priceNames 
+2025-12-22 10:50:08 |   - define: weights_col <- 'peso_final' (reform_3/4 contract) 
+2025-12-22 10:52:52 | [STEP 1] Sourcing reform_1.R (full run) 
+2025-12-22 10:53:03 | [STEP 2] Loading functions only from reform_2..reform_12 
+2025-12-22 10:53:03 |   - functions:  reform_2.R 
+2025-12-22 10:53:03 |   - functions:  reform_3.R 
+2025-12-22 10:53:03 |   - functions:  reform_4.R 
+2025-12-22 10:53:03 |   - functions:  reform_5.R 
+2025-12-22 10:53:03 |   - functions:  reform_6.R 
+2025-12-22 10:53:03 |   - functions:  reform_7.R 
+2025-12-22 10:53:03 |   - functions:  reform_8.R 
+2025-12-22 10:53:03 |   - functions:  reform_9.R 
+2025-12-22 10:53:03 |   - functions:  reform_10.R 
+2025-12-22 10:53:03 |   - functions:  reform_11.R 
+2025-12-22 10:53:03 |   - functions:  reform_12.R 
+2025-12-22 10:53:03 | [D.1] Export IV candidates inputs 
+2025-12-22 10:53:03 | [D.2] Export RMSE/MAE inputs (from reform_1 objects) 
+2025-12-22 10:53:03 | [INFO] pipeline_results não é coercível para data.frame; exportei step5 (se existia). 
+2025-12-22 10:53:03 | [Fig D.4] Export QUAIDS 3SLS coefficients (inputs + plot) 
+2025-12-22 10:53:03 | [Fig D.3] Sourcing reform_6.R (full run) to create benchmarking objects 
+2025-12-22 10:53:03 | [PATCH] Contract shim for reform_6.R (share_vars/price_vars/df aliases) 
+2025-12-22 10:53:03 | [PATCH] Contract shim for reform_6.R (weights_col/dat) 
+2025-12-22 10:53:03 | [PATCH] Loading contract vars from reform_4.R (then reform_3.R if needed) 
+2025-12-22 10:53:03 | [PATCH] Contract vars loaded:  z_var, z2_var, iv_include_patterns_full, iv_include_patterns_min, iv_exclude_patterns, seasonal_controls_full, seasonal_controls_min 
+2025-12-22 10:53:04 |   - define: dat <- df_iv 
+2025-12-22 10:53:04 | [PATCH] Force config names for reform_6.R (share_vars/price_vars/z/weights) 
+2025-12-22 10:56:06 | [STEP 1] Sourcing reform_1.R (full run) 
+2025-12-22 10:56:17 | [STEP 2] Loading functions only from reform_2..reform_12 
+2025-12-22 10:56:17 |   - functions:  reform_2.R 
+2025-12-22 10:56:17 |   - functions:  reform_3.R 
+2025-12-22 10:56:17 |   - functions:  reform_4.R 
+2025-12-22 10:56:17 |   - functions:  reform_5.R 
+2025-12-22 10:56:17 |   - functions:  reform_6.R 
+2025-12-22 10:56:17 |   - functions:  reform_7.R 
+2025-12-22 10:56:17 |   - functions:  reform_8.R 
+2025-12-22 10:56:17 |   - functions:  reform_9.R 
+2025-12-22 10:56:17 |   - functions:  reform_10.R 
+2025-12-22 10:56:17 |   - functions:  reform_11.R 
+2025-12-22 10:56:17 |   - functions:  reform_12.R 
+2025-12-22 10:56:17 | [D.1] Export IV candidates inputs 
+2025-12-22 10:56:17 | [D.2] Export RMSE/MAE inputs (from reform_1 objects) 
+2025-12-22 10:56:17 | [INFO] pipeline_results não é coercível para data.frame; exportei step5 (se existia). 
+2025-12-22 10:56:17 | [Fig D.4] Export QUAIDS 3SLS coefficients (inputs + plot) 
+2025-12-22 10:56:17 | [Fig D.3] Sourcing reform_6.R (full run) to create benchmarking objects 
+2025-12-22 10:56:17 | [PATCH] Contract shim for reform_6.R (share_vars/price_vars/df aliases) 
+2025-12-22 10:56:17 | [PATCH] Contract shim for reform_6.R (weights_col/dat) 
+2025-12-22 10:56:17 | [PATCH] Loading contract vars from reform_4.R (then reform_3.R if needed) 
+2025-12-22 10:56:17 | [PATCH] Contract vars loaded:  z_var, z2_var, iv_include_patterns_full, iv_include_patterns_min, iv_exclude_patterns, seasonal_controls_full, seasonal_controls_min 
+2025-12-22 10:56:17 | [PATCH] Ensure dat has z/z2 using reform_1.R compute_z (official) 
+2025-12-22 11:01:14 | [STEP 1] Sourcing reform_1.R (full run) 
+2025-12-22 11:01:25 | [STEP 2] Loading functions only from reform_2..reform_12 
+2025-12-22 11:01:25 |   - functions:  reform_2.R 
+2025-12-22 11:01:25 |   - functions:  reform_3.R 
+2025-12-22 11:01:25 |   - functions:  reform_4.R 
+2025-12-22 11:01:25 |   - functions:  reform_5.R 
+2025-12-22 11:01:25 |   - functions:  reform_6.R 
+2025-12-22 11:01:25 |   - functions:  reform_7.R 
+2025-12-22 11:01:25 |   - functions:  reform_8.R 
+2025-12-22 11:01:25 |   - functions:  reform_9.R 
+2025-12-22 11:01:25 |   - functions:  reform_10.R 
+2025-12-22 11:01:25 |   - functions:  reform_11.R 
+2025-12-22 11:01:25 |   - functions:  reform_12.R 
+2025-12-22 11:01:25 | [D.1] Export IV candidates inputs 
+2025-12-22 11:01:25 | [D.2] Export RMSE/MAE inputs (from reform_1 objects) 
+2025-12-22 11:01:25 | [Fig D.4] Export QUAIDS 3SLS coefficients (inputs + plot) 
+2025-12-22 11:01:25 | [Fig D.3] Deterministic contract + source reform_6.R 
+2025-12-22 11:01:27 | [Tables D.3–D.10] Sourcing reform_12.R (full run) 
+2025-12-22 11:01:30 | [Table D.12] Sourcing reform_10.R (full run) 
+2025-12-22 11:01:32 | [Table D.11 / Fig D.5] Sourcing reform_11.R (full run) 
+2025-12-22 11:08:46 | [Fig D.1/D.2] Diagnostic residual figures (insumos + png) 
+2025-12-22 11:15:03 | [Fig D.1/D.2] Diagnostic residual figures (insumos + png) 
+2025-12-22 11:16:12 | [Fig D.1/D.2] Diagnostic residual figures (insumos + png) 
+2025-12-22 11:16:12 | [DONE] Appendix D exports completed. 
