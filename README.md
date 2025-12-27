@@ -33,7 +33,7 @@ flowchart TD
 A["POF 2017-2018 data"] --> B["Data preprocessing and aggregation"]
 B --> C["QUAIDS estimation: pre-reform and two scenarios"]
 C --> D["Elasticity matrices - Marshallian / Hicksian / Expenditure"]
-F --> G["Tables and figures for publication"]
+D --> E["Tables and figures for publication"]
 ```
 
 ### Step 1: Data Construction
